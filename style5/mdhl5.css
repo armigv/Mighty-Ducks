@@ -1,0 +1,987 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 72, 4);
+        
+
+    
+    }
+    
+    .encabezado15 {
+         background-image: url(../style5/design1_image1.jpg);
+         height: 300px;
+         background-size: cover ; 
+         display: flex;
+        }
+    .titulo15 {
+    font-size: 36px;
+    display:flex;
+    color:rgb(179, 151, 80);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    }
+    
+    .subtitulo15 {
+        background-color: rgb(28, 155, 96);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(184, 183, 183);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        
+    }
+    
+
+      
+
+    #logo15 {
+        width: 250px;
+        height: 170px;
+         margin-top: 2%;
+         margin-right: 2%;
+         
+    }
+            
+        
+        .linkytexto15 {
+        display: flex;
+        margin-left: 5%;
+        margin-top: 2%;
+        }
+    
+            
+    
+    
+    .link15  {
+        display: flex ; 
+        justify-content: right  ;
+        font-size: 20px;
+       margin-top: 4%;
+       margin-left: 20%;
+       align-items: flex-start;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       color: rgb(190, 189, 189);
+       flex-direction: column;
+    align-items: stretch;
+    }
+    
+    .texto15 {
+    margin-left: 3%;
+    margin-top: 3%;
+    color:rgb(73, 72, 72);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:justify;
+    }
+
+    .textosub15 {
+     color: rgb(190, 189, 189) ;
+     text-align:justify;
+    }
+
+#home15 {
+background-color:rgb(28, 155, 96) ;
+text-decoration: none;
+color:rgb(190, 189, 189) ;
+text-align: center;
+border: solid 2px rgb(34, 34, 34);
+padding-bottom: 5px;
+padding-top: 5px;
+box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+margin-left:8% ;
+ margin-right: 10% ;
+ padding-left: 6%;
+ padding-right: 6%;
+}
+
+#contact15 {
+    background-color:rgb(218, 72, 4) ;
+    text-decoration: none;
+    color:rgb(190, 189, 189);
+    text-align: center;
+    border: solid 2px black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow:rgba(7, 7, 7, 0.637) 3px 3px  ;
+    margin-left:10% ;
+    margin-right: 17%;
+    padding-left: 6%;
+    padding-right: 6%;
+
+}
+
+#AboutMDHL15 {
+    background-color:rgb(0,0,0) ;
+    text-decoration: none;
+    color:rgb(190, 189, 189);
+    text-align: center;
+    border: solid 2px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    box-shadow:rgba(12, 12, 12, 0.637) 3px 3px  ;
+    padding-left: 6%;
+    padding-right: 6%;
+    
+}
+
+#gameinformation2 {
+        background-color:rgb(179, 151, 80) ;
+        text-decoration: none;
+        color:rgb(190, 189, 189) ;
+        text-align: center;
+        border: solid 2px rgb(34, 34, 34);
+        padding-bottom: 5px;
+        padding-top: 5px;
+        box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+        margin-left:8% ;
+         margin-right: 10% ;
+         padding-left: 6%;
+         padding-right: 6%;
+}
+ 
+#rules2 {
+    background-color:rgb(57, 59, 58) ;
+    text-decoration: none;
+    color:rgb(190, 189, 189) ;
+    text-align: center;
+    border: solid 2px rgb(34, 34, 34);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+    margin-left:8% ;
+     margin-right: 10% ;
+     padding-left: 6%;
+     padding-right: 6%;
+}
+body  {
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    .encabezado16 {
+         background-image: url(../style5/design1_image2.jpg);
+         height: 300px;
+         background-size: cover ; 
+         display:flex;
+        }
+    .titulo16 {
+    font-size: 49px;
+    margin:0%;
+    display:flex ;
+    color:rgb(158, 133, 70);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+    }   
+    .subtitulo16 {
+    background-color: black;
+    
+    
+    }
+    
+    .subtitulo16 {
+        background-color: rgb(28, 155, 96) ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white; 
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:large;
+            }
+       
+    #logo16 {
+        width: 160px;
+        height: 140px;
+        left: 75%;
+        margin-top: 2%;
+        margin-right: 2%;
+
+    }
+            
+        .linkytexto16 {
+
+        display: flex;
+        margin-left: 5%;
+        margin-top: 2%;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+            
+    
+    
+    .link16  {
+        display: flex ; 
+    justify-content: right  ;
+    font-size: 20px;
+   margin-top: 4%;
+   margin-left: 19%;
+   align-items: flex-start;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   flex-direction: column;
+    align-items: stretch;
+    }
+    
+    .texto16 {
+        margin-left: 3%;
+        margin-top: 3%;
+        text-align:justify;
+        color:rgb(73, 72, 72);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .textosub16 {
+        color: rgb(190, 189, 189) ;
+    }
+
+    #Home16 {
+        background-color:rgb(28, 155, 96);
+        text-decoration: none;
+        color: rgb(190, 189, 189);
+        text-align: center;
+        border: solid 2px rgb(34, 34, 34);
+        padding-bottom: 5px;
+        padding-top: 5px;
+        box-shadow:rgba(8, 8, 8, 0.685) 3px 3px ;
+        margin-left:10% ;
+         margin-right: 10% ;
+         padding-left: 6%;
+         padding-right: 6%;
+        }
+        
+        #Contact16 {
+            background-color:rgb(218, 72, 4) ;
+            text-decoration: none;
+            color:rgb(190, 189, 189);
+            text-align: center;
+            border: solid 2px black;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            box-shadow:rgba(7, 7, 7, 0.637) 3px 3px  ;
+            margin-left:10% ;
+            margin-right: 17%;
+            padding-left: 6%;
+            padding-right: 6%;
+        
+        }
+        
+        #About16 {
+            background-color:rgb(17, 17, 17) ;
+    text-decoration: none;
+    color:rgb(190, 189, 189);
+    text-align: center;
+    border: solid 2px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    box-shadow:rgba(12, 12, 12, 0.637) 3px 3px  ;
+    padding-left: 6%;
+    padding-right: 6%;
+            
+        }
+        #gameinformation2 {
+            background-color:rgb(179, 151, 80) ;
+            text-decoration: none;
+            color:rgb(190, 189, 189) ;
+            text-align: center;
+            border: solid 2px rgb(34, 34, 34);
+            padding-bottom: 5px;
+            padding-top: 5px;
+            box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+            margin-left:8% ;
+             margin-right: 10% ;
+             padding-left: 6%;
+             padding-right: 6%;
+    }
+     
+    #rules2 {
+        background-color:rgb(57, 59, 58) ;
+        text-decoration: none;
+        color:rgb(190, 189, 189) ;
+        text-align: center;
+        border: solid 2px rgb(34, 34, 34);
+        padding-bottom: 5px;
+        padding-top: 5px;
+        box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+        margin-left:8% ;
+         margin-right: 10% ;
+         padding-left: 6%;
+         padding-right: 6%;
+    }       
+
+
+
+    body  {
+        margin: 0;
+        padding: 0;
+        
+        }
+        
+        .encabezado17 {
+             background-image: url(../style4/design1_image1.jpg);
+             height: 300px;
+             background-size: cover ; 
+             display: flex ;
+            }
+        .titulo17 {
+        font-size: 49px;
+        margin:0%; 
+         display: flex;
+         color:rgb(179, 151, 80);
+         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         align-items: center;
+        }   
+        
+        
+        .subtitulo17 {
+            background-color: rgb(28, 155, 96) ;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white; 
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size:large;
+            
+        }
+           
+        #logo17 {
+            width: 150px;
+            height: 140px;
+        left: 80%;
+        margin-right: 2%;
+    
+        }
+                
+            
+            .linkytexto17 {
+                display: flex;
+            margin-left: 5%;
+            margin-top: 3%;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+            }
+                
+        
+        
+        .link17  {
+            display: flex ; 
+            justify-content: right  ;
+            font-size: 20px;
+           align-items: flex-start;
+           font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           
+           
+        }
+        
+        .texto17 {
+        margin-left: 55px ;
+        line-height:125%;
+          margin-bottom: 15%;
+          margin-top: 1%;
+          color:rgb(73,72,72);
+        }
+        #Home17 {
+            background-color:rgb(28, 155, 96);
+        text-decoration: none;
+        color: rgb(190, 189, 189);
+        text-align: center;
+        border: solid 2px rgb(34, 34, 34);
+        padding-bottom: 5px;
+        padding-top: 5px;
+        box-shadow:rgba(8, 8, 8, 0.685) 3px 3px ;
+        margin-left:10% ;
+         margin-right: 10% ;
+         padding-left: 6%;
+         padding-right: 6%;
+        }
+            
+            #Contact17 {
+                background-color:rgb(218, 72, 4) ;
+                text-decoration: none;
+                color:rgb(190, 189, 189);
+                text-align: center;
+                border: solid 2px black;
+                padding-bottom: 5px;
+                padding-top: 5px;
+                box-shadow:rgba(7, 7, 7, 0.637) 3px 3px  ;
+                margin-left:10% ;
+                margin-right: 17%;
+                padding-left: 6%;
+                padding-right: 6%;
+             
+            
+            }
+            
+            #About17 {
+                background-color:rgb(8, 8, 8) ;
+    text-decoration: none;
+    color:rgb(190, 189, 189);
+    text-align: center;
+    border: solid 2px black;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    box-shadow:rgba(12, 12, 12, 0.637) 3px 3px  ;
+    padding-left: 6%;
+    padding-right: 6%;
+            }    
+
+            #gameinformation2 {
+                background-color:rgb(179, 151, 80) ;
+                text-decoration: none;
+                color:rgb(190, 189, 189) ;
+                text-align: center;
+                border: solid 2px rgb(34, 34, 34);
+                padding-bottom: 5px;
+                padding-top: 5px;
+                box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+                margin-left:8% ;
+                 margin-right: 10% ;
+                 padding-left: 6%;
+                 padding-right: 6%;
+        }
+         
+        #rules2 {
+            background-color:rgb(57, 59, 58) ;
+            text-decoration: none;
+            color:rgb(190, 189, 189) ;
+            text-align: center;
+            border: solid 2px rgb(34, 34, 34);
+            padding-bottom: 5px;
+            padding-top: 5px;
+            box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+            margin-left:8% ;
+             margin-right: 10% ;
+             padding-left: 6%;
+             padding-right: 6%;
+        }
+       
+            *{
+                padding: 0px;
+                margin:0px;
+                box-sizing: border-box;
+            }
+            html {
+            align-items: center;   
+            }
+            
+            body{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            
+            }
+            
+            .header-p {
+            width:  100%;
+            font-weight: 400;
+            
+            }
+            div.cuadro{
+            width:70%;
+            margin:15vh auto;
+            min-height: 80vh;
+            background-color: rgb(255, 123, 0);
+            padding: 5vh 0vw;
+            display: flex;
+
+            }
+            
+            #logo2 {
+            height: 4.5em;
+            background-color:rgb(158, 133, 70);
+            border-radius: 15%;
+            margin-left: 4.5vw ;
+            }
+            
+            .header {
+            width: 100%;
+            background-color: chartreuse;
+            display:flex;
+            flex: wrap;
+            align-content: space-between;
+            
+        }
+        .subheader
+        {  width:100%;
+           font-weight:400;
+        }
+
+            .h1{
+                padding: 0.8rem;
+                width: 80%;
+                font-family: Arial, Helvetica, sans-serif;
+                width: 10vw;
+                }
+            
+            .h3 {
+            background-color: rgb(100, 114, 114);
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+                        
+            }
+            .Fall{
+                margin-right: 50%;
+            }
+
+
+            .nav2{
+            display:flex;
+            width: 12%;
+            text-align:center;
+            font-family: 'Times New Roman', Times, serif;
+            align-items: stretch;
+            
+            }
+            
+            .nav2>a{
+            text-decoration: none;
+            border-radius: 25px;
+            background:rgb(161, 13, 13) ;
+            color:rgb(5, 168, 87);
+            padding:0.2rem 0.5em ;
+            margin: 0.5em;
+            
+            }
+            
+            a:hover {
+            background-color: rgb(250, 168, 17);
+            color:teal;
+            
+            }
+            
+            .fondo_index2{
+            background-image:linear-gradient(115deg, rgb(218 72 4 / 86% ), 
+            rgb(28 155 96 / 95%)) , url(../style5/design1_image1.jpg) ;                                         
+            
+            }
+            
+            .main {
+            display:flex;
+            text-align: justify;
+            flex-direction: column;
+            line-height: 1.5em;
+            
+            
+            }
+            
+            .container2{
+                display:flex;
+                flex:wrap;
+                flex-direction: row;
+            
+            }
+            
+            .container_index2{
+            border-radius: 25px;
+            border-style: dotted;
+            width: 70%;
+            padding: 2.5rem ;
+            background:linear-gradient(115deg, rgb(218 72 4 / 86% ), 
+            rgb(28 155 96 / 95%));
+            margin: 2rem 2rem 1rem 2rem;
+            width:70%;
+            margin:15vh auto;
+            min-height: 80vh;
+            padding: 5vh 0vw;
+            display: flex;
+
+            }
+
+
+            #Home18 {
+                background-color:rgb(28, 155, 96);
+            text-decoration: none;
+            color: rgb(190, 189, 189);
+            text-align: center;
+            border: solid 2px rgb(34, 34, 34);
+            padding-bottom: 5px;
+            padding-top: 5px;
+            box-shadow:rgba(8, 8, 8, 0.685) 3px 3px ;
+            margin-left:10% ;
+             margin-right: 10% ;
+             padding-left: 6%;
+             padding-right: 6%;
+            }
+                
+                #Contact18 {
+                    background-color:rgb(218, 72, 4) ;
+                    text-decoration: none;
+                    color:rgb(190, 189, 189);
+                    text-align: center;
+                    border: solid 2px black;
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    box-shadow:rgba(7, 7, 7, 0.637) 3px 3px  ;
+                    margin-left:10% ;
+                    margin-right: 17%;
+                    padding-left: 6%;
+                    padding-right: 6%;
+                 
+                
+                }
+                
+                #About18 {
+                    background-color:rgb(8, 8, 8) ;
+        text-decoration: none;
+        color:rgb(190, 189, 189);
+        text-align: center;
+        border: solid 2px black;
+        padding-bottom: 3px;
+        padding-top: 3px;
+        box-shadow:rgba(12, 12, 12, 0.637) 3px 3px  ;
+        padding-left: 6%;
+        padding-right: 6%;
+                }    
+    
+                #gameinformation2 {
+                    background-color:rgb(179, 151, 80) ;
+                    text-decoration: none;
+                    color:rgb(190, 189, 189) ;
+                    text-align: center;
+                    border: solid 2px rgb(34, 34, 34);
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+                    margin-left:8% ;
+                     margin-right: 10% ;
+                     padding-left: 6%;
+                     padding-right: 6%;
+            }
+             
+            #rules2 {
+                background-color:rgb(57, 59, 58) ;
+                text-decoration: none;
+                color:rgb(190, 189, 189) ;
+                text-align: center;
+                border: solid 2px rgb(34, 34, 34);
+                padding-bottom: 5px;
+                padding-top: 5px;
+                box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+                margin-left:8% ;
+                 margin-right: 10% ;
+                 padding-left: 6%;
+                 padding-right: 6%;
+            }
+
+            *{
+                padding: 0px;
+                margin:0px;
+                box-sizing: border-box;
+            }
+            html {
+            text-align: center;
+            }
+            
+            body{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            }
+            
+            .header-p {
+            width:  100%;
+            font-weight: 400;
+            
+            }
+            
+            
+            #logo3 {
+            height: 4.5em;
+           background-color:rgb(158, 133, 70);
+            border-radius: 15%;
+            margin-left: 4.5vw ;
+
+            }
+            
+            .header {
+            width: 100%;
+            background-color: chartreuse;
+            display:flex;
+            
+            align-content: space-between;
+            
+            
+            
+            }
+            
+            .h1{
+                padding: 0.8rem;
+                width: 80%;
+                font-family: Arial, Helvetica, sans-serif;
+                width: 10vw;
+
+            }
+            
+            .h2 {
+            background-color: rgb(100, 114, 114);
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+            
+            }
+            .Ruless{
+            text-align: center;
+
+
+            }
+            
+            .nav3{
+            display:flex;
+            width: 12%;
+            text-align:center;
+            font-family: 'Times New Roman', Times, serif;
+            align-items: stretch;
+            }
+            
+            .nav3>a{
+            text-decoration: none;
+            border-radius: 25px;
+            background:rgb(161, 13, 13) ;
+            color:rgb(5, 168, 87);
+            padding:0.2rem 0.5em ;
+            margin: 0.5em;
+            
+            }
+            
+            a:hover {
+            background-color: rgb(250, 168, 17);
+            color:teal;
+            
+            }
+            
+            .fondo_index3{
+            background-image:linear-gradient(115deg, rgb(218 72 4 / 86% ), 
+            rgb(28 155 96 / 95%)) , url(../style5/design1_image1.jpg)                                         
+            
+            }
+            
+            .main {
+            display:flex;
+            text-align: center;
+            flex-direction: column;
+            line-height: 1.2em;
+            
+            
+            }
+            
+            .container3{
+                display:flex;
+                flex:wrap;
+                flex-direction: row;
+            
+            }
+            
+            .container_index3{
+            border-radius: 25px;
+            border-style: dotted;
+            width: 70%;
+            padding: 2rem ;
+            background:linear-gradient(115deg, rgb(218 72 4 / 86% ), 
+            rgb(28 155 96 / 95%));
+            margin:15vh auto;
+            min-height: 80vh;
+            text-align:justify;
+        }   
+
+        .legend3{
+            font-size:20px;
+            font-weight:900px;
+            font-size: x-large;
+         }
+        dl>dt{margin-bottom: 1rem;
+    
+        }
+
+        dl>dd{margin-bottom: 1rem;}
+        
+        .list3
+        {margin-bottom: 1rem;}
+        
+        ul{ width:65%;
+            margin-left:3rem;
+        
+        }
+            #Home19 {
+                background-color:rgb(28, 155, 96);
+            text-decoration: none;
+            color: rgb(190, 189, 189);
+            text-align: center;
+            border: solid 2px rgb(34, 34, 34);
+            padding-bottom: 5px;
+            padding-top: 5px;
+            box-shadow:rgba(8, 8, 8, 0.685) 3px 3px ;
+            margin-left:10% ;
+             margin-right: 10% ;
+             padding-left: 6%;
+             padding-right: 6%;
+            }
+                
+                #Contact19 {
+                    background-color:rgb(218, 72, 4) ;
+                    text-decoration: none;
+                    color:rgb(190, 189, 189);
+                    text-align: center;
+                    border: solid 2px black;
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    box-shadow:rgba(7, 7, 7, 0.637) 3px 3px  ;
+                    margin-left:10% ;
+                    margin-right: 17%;
+                    padding-left: 6%;
+                    padding-right: 6%;
+                 
+                
+                }
+                
+                #About19 {
+                    background-color:rgb(8, 8, 8) ;
+        text-decoration: none;
+        color:rgb(190, 189, 189);
+        text-align: center;
+        border: solid 2px black;
+        padding-bottom: 3px;
+        padding-top: 3px;
+        box-shadow:rgba(12, 12, 12, 0.637) 3px 3px  ;
+        padding-left: 6%;
+        padding-right: 6%;
+                }    
+    
+                #gameinformation3 {
+                    background-color:rgb(179, 151, 80) ;
+                    text-decoration: none;
+                    color:rgb(190, 189, 189) ;
+                    text-align: center;
+                    border: solid 2px rgb(34, 34, 34);
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+                    margin-left:8% ;
+                     margin-right: 10% ;
+                     padding-left: 6%;
+                     padding-right: 6%;
+            }
+             
+            #rules3 {
+                background-color:rgb(57, 59, 58) ;
+                text-decoration: none;
+                color:rgb(190, 189, 189) ;
+                text-align: center;
+                border: solid 2px rgb(34, 34, 34);
+                padding-bottom: 5px;
+                padding-top: 5px;
+                box-shadow:rgba(8, 8, 8, 0.685) 3px 3px  ;
+                margin-left:8% ;
+                 margin-right: 10% ;
+                 padding-left: 6%;
+                 padding-right: 6%;
+            }
+
+
+            *{
+                padding: 0px;
+                margin:0px;
+                box-sizing: border-box;
+            }
+            html {
+            text-align: center;
+            }
+            
+            body{
+                font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            }
+            
+            table.gridtable2 {
+            
+                font-size: size 14px;
+                color:rgb(57, 59, 58);
+                border-width:1px;
+                border-color:rgb(124, 104, 54)  ;             
+                border-collapse: collapse;
+            }
+            
+        
+            table.gridtable2 th {
+                
+                border-width: 1px;
+                padding: 5px;
+                border-style:solid;
+                border-color:rgb(17, 17, 17);
+                background-color: rgb(247, 72, 3);
+                text-align:left;
+            } 
+            table.gridtable2 td {
+                border-width:2px;
+                padding:5px;
+                border-style:solid;
+                border-color:#333333;
+                background-color:rgb(28, 155, 96);
+                text-align:left;
+                
+            }        
+            
+              
+        table.gridtable3  {
+            border-width:2px;
+            padding:5px;
+            border-style:solid;
+            border-color: rgb(57, 59, 58);
+            background-color:rgb(28, 155, 96) ;
+            color:rgb(65, 61, 61);
+            
+        }    
+
+            table.grindtable4 {
+
+                border-width:2px;
+                padding:5px;
+                border-style:solid;
+                border-color: rgb(57, 59, 58);
+                background-color:rgb(28, 155, 96) ;
+                color:rgb(56, 53, 53);
+
+
+
+            }                     
+             
+
+
+              h1 {
+              
+              color: rgb(229, 192, 99) ; 
+
+
+
+
+              }
+            
+             h2 { 
+                 color: rgb(207, 174, 90);
+             text-align: left;
+            
+             }
+             
+             .Permission{
+
+              text-align: center;
+
+             }
+
+             .Form{
+
+              text-align: center;
+
+             }
+
+            h3 {
+
+                color: rgb(207, 174, 90); 
+
+            }
+            
+            input[type=submit] {
+
+            background-color: rgb(243, 212, 135);
+            border-radius: 10px;
+            padding: 10px 15px;
+            color:rgb(73,72,72);
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+            }
